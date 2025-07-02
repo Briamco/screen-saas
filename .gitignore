@@ -1,0 +1,12 @@
+node_modules
+.env
+dist
+
+.vscode
+
+# Vite
+client/.next
+client/.cache
+
+# Logs
+npm-debug.log*
